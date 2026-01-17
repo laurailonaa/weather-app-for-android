@@ -13,17 +13,13 @@
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Tech Stack](#tech-stack)
-- [License](#license)
-- [Contributing](#contributing)
 - [Contact](#contact)
 
 ---
 
 ## 📖 About
 
-Brief description of the project:
-
-- Project work for our Native Mobile Development course
+Weather App for Android. Developed as a final project in Native Mobile Development course.
 
 ---
 
@@ -31,8 +27,9 @@ Brief description of the project:
 
 - ✅ Shows current weather based on city (Tampere by default)
 - ✅ Allows user to fetch other city's weather information through text input
-- ✅ Bottom nav bar to navigate between home and forecast screens
+- ✅ Bottom nav bar built with navController to navigate between home and forecast screens
 - ✅ 7-day forecast of current city + more detailed info when day selected
+- ✅ Intuitive and minimalistic design solutions through shared viewModel
 
 ---
 
@@ -57,27 +54,21 @@ https://youtu.be/O1nyN-0EZlE
 - Android SDK version 35 or above
 - JDK 11->
 
-### Installation
+### ⚙️ Installation and Usage
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-project.git
+git clone [https://github.com/your-username/weather-app-for-android
 ```
 
-Open Android Studio
+Opening the app in Android Studio:
 - Select the cloned directory
 - Android Studio will download needed dependencies automatically
-
----
-
-## ⚙️ Usage
-
-Opening the app in Android studio:
 - Check if you have a virtual or physical device connected
 - Click the "Run" button on the top bar or Shift+F10
 
-In mobile:
-- Download the apk file attached to this
+For mobile:
+- Download the apk file attached to this project
 - Install it onto your device
 - Open the app
 
@@ -88,18 +79,6 @@ In mobile:
 - Language: Kotlin, Java
 - Framework: Jetpack Compose/Android Studio
 - Tools: Open-Meteo API, Geocoding API
-
----
-
-## 📜 License
-
-This project does not include a license, this is only for course work.
-
----
-
-## 🤝 Contributing
-
-This project was made for our course. No contributing expected.
 
 ---
 
