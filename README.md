@@ -58,7 +58,7 @@ https://youtu.be/O1nyN-0EZlE
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/weather-app-for-android
+git clone [https://github.com/laurailonaa/weather-app-for-android
 ```
 
 Opening the app in Android Studio:
@@ -68,8 +68,8 @@ Opening the app in Android Studio:
 - Click the "Run" button on the top bar or Shift+F10
 
 For mobile:
-- Download the apk file attached to this project
-- Install it onto your device
+- Download the apk file attached to this project's release
+- Install it onto your mobile device
 - Open the app
 
 ---
