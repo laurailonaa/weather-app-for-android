@@ -35,8 +35,12 @@ Weather App for Android. Developed as a final project in Native Mobile Developme
 
 ## 📸 Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+<img width="325" height="813" alt="weather home screen" src="https://github.com/user-attachments/assets/679b315e-1848-4997-998d-27e442dc2a13" />
+
+<img width="325" height="813" alt="weather forecast screen" src="https://github.com/user-attachments/assets/324a69f2-79bd-44b1-9b1d-a6c41a383387" />
+
+<img width="325" height="813" alt="weather forecast details screen" src="https://github.com/user-attachments/assets/24ab697a-0d2a-4b33-b099-ffb1a2ce7cc8" />
+
 
 ---
 
